@@ -24,3 +24,6 @@
 
 ## Hasil Luas Dan Keliling Lingkaran
 ![gambar8](Screenshot/has%20l%26k.png)
+
+## Flowchart Luas Dan Keliling Lingkaran
+![gambar9](Screenshot/ss%20flowchart.png)
