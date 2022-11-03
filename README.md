@@ -10,7 +10,7 @@
 ![gambar3](Screenshot/lat2.png)
 
 ## Hasil Latihan 2
-![gambar4](Screenshot/has3.png)
+![gambar4](Screenshot/has2.png)
 ### FYI jika TypeError: %d format: a number is required, not str" Jika args adalah daftar atau tupel, %s dapat digunakan sebagai pengganti dalam kueri. Jika args adalah dict, %(name)s dapat digunakan sebagai placeholder dalam kueri.
 
 ## Latihan 3
