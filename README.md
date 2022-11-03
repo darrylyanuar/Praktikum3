@@ -1,10 +1,10 @@
 # Praktikum3
 
 ## Latihan 1
-![gambar1](screenshot/lat1.png)
+![gambar1](Screenshot/lat1.png)
 
 ## Hasil Latihan 1
-![gambar2](screenshot/has1.png)
+![gambar2](Screenshot/has1.png)
 
 ## Latihan 2
 ![gambar3](Screenshot/lat2.png)
